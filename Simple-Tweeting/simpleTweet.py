@@ -19,7 +19,7 @@ ACCESS_SECRET = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # If you're wondering what all these "Keys" and "Tokens" are for, Twitter makes use of OAuth for secure
 # authorization and log-ins (like what we're about to do). It's a bit complicated, but that's expected.
-# Youtuber Tom Scott has a good explanation of OAuth in his "Pokemon Go" video (link below)
+# Youtuber Tom Scott has a quick explanation of OAuth in his "Pokemon Go" video (link below)
 # https://www.youtube.com/watch?v=cDZjm4f9CEo
 
 # For the nerds, documentation on the Tweepy module can be found at http://docs.tweepy.org/en/v3.5.0/api.html
