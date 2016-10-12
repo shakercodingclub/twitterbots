@@ -1,4 +1,3 @@
-#!/usr/bin/python3.5
 import tweepy
 import time
 import os
